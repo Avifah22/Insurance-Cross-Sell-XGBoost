@@ -24,11 +24,6 @@ Setelah melakukan analisis data (EDA) dan Feature Importance, ditemukan beberapa
 - **XGBoost:** Algoritma machine learning utama dengan penanganan *imbalanced data* menggunakan parameter `scale_pos_weight`.
 - **Scikit-Learn:** Evaluasi model & data splitting.
 
-## 📂 Struktur Repositori
-- `notebooks/`: File `.ipynb` berisi kodingan lengkap dari awal sampai akhir.
-- `data/`: Link referensi dataset (Kaggle).
-- `README.md`: Penjelasan proyek.
-
 ---
 **Disclaimer:** Dataset ini bersifat publik dan diambil dari [Kaggle Health Insurance Cross Sell Prediction](https://www.kaggle.com).
 
